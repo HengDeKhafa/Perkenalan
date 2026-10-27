@@ -1,5 +1,4 @@
 Resolusi:
--Mengetahui apa itu git dan github
 -Mengetahui apa itu TensorFlow
 -Mengetahui PostgreSQL
 -Mengetahui Django
